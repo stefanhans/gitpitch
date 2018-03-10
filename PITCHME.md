@@ -1,4 +1,4 @@
 ## go-digital
 
-<iframe src="https://stefanhans.github.io/team/" height="600" width="500"></iframe>
+<iframe src="https://stefanhans.github.io/team/" height="400" width="800"></iframe>
 
